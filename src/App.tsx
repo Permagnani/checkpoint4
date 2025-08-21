@@ -1,11 +1,14 @@
+
 import { Welcome } from "./components/welcome"
 
-function App () {
-  return( <>
+function App() {
+  return( 
+    <>
     <Welcome/>
 
   </>)
      
     
+
 }
 export default App
