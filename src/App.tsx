@@ -1,13 +1,14 @@
 
+import { Welcome } from "./components/welcome"
 
 function App() {
-  
-
-  return (
+  return( 
     <>
-      
-    </>
-  )
-}
+    <Welcome/>
 
+  </>)
+     
+    
+
+}
 export default App
