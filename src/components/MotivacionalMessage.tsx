@@ -1,6 +1,6 @@
 interface MotivationalMessageProps{
-            message: String;
-            author: String;
+            message: string;
+            author: string;
         }
 
         export function MotivationalMessage (props: MotivationalMessageProps){
